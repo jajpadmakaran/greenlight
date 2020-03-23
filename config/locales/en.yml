@@ -36,7 +36,7 @@ en:
         enabled: Enabled
         info: Only allow authenticated users to join a room
         title: Require Authentication for Rooms
-        user-info: You must sign in to Greenlight to join this room
+        user-info: You must sign in to Syncline Interactive to join this room
       branding:
         change: Change Image
         info: Change the branding image that appears in the top left corner
@@ -82,7 +82,7 @@ en:
       shared_access:
         info: Setting to disabled will remove the button from the Room options dropdown, preventing users from sharing rooms
         title: Allow Users to Share Rooms
-      subtitle: Customize Greenlight
+      subtitle: Customize Syncline Interactive
       title: Site Settings
     flash:
       approved: User has been successfully approved.
@@ -160,7 +160,7 @@ en:
         username: Username
       title: Manage Users
   add_to_google_calendar: "Add to Google Calendar"
-  bigbluebutton: BigBlueButton
+  bigbluebutton: Syncline Interactive
   bigbluebutton_exception: Oops, there was an error when starting the meeting!
   cancel: Cancel
   cookies:
@@ -193,7 +193,7 @@ en:
       contact_admin: If you are not an administrator, please contact one.
       continue: I'd like to stay using 1.0.
       notice: >
-        Greenlight encountered a database migration error.<br>
+        Syncline Interactive encountered a database migration error.<br>
         This may be because you haven't updated to Greenlight 2.0.
       upgrade: Show me how to upgrade to 2.0!
       version: We've released a new version of Greenlight, but your database isn't compatible.
@@ -235,7 +235,8 @@ en:
     email: Email
     submit: Submit
   go_back: Go back
-  greenlight: Greenlight
+  greenlight: Syncline Interactive
+  Syncline Interactive: Syncline Interactive
   header:
     all_recordings: All Recordings
     dropdown:
@@ -259,9 +260,9 @@ en:
     search:
       start: Start searching...
   landing:
-    about: "%{href} is a simple front-end for your BigBlueButton open-source web conferencing server. You can create your own rooms to host sessions, or join others using a short and convenient link."
-    welcome: Welcome to BigBlueButton.
-    video: Watch our tutorial on using Greenlight
+    about: "%{href} a web conferencing/meeting platform system designed specifically for Online Learning. Sign up to create your own rooms to host sessions, have others join in using a short and convenient link."
+    welcome: Welcome to Syncline Interactive.
+    video: Watch our tutorial
     upgrade: Show me how to upgrade to 2.0!
     version: We've released a new version of Greenlight, but your database isn't compatible.
   language_default: Default (browser language)
@@ -275,10 +276,10 @@ en:
         signin: To access your personal rooms, click the button below and sign in.
         signin_link: Sign In
         signup:
-          info: A new user has signed up to use Greenlight.
-          more-info: To allow this user to access Greenlight you must approve their account in organization settings.
+          info: A new user has signed up to use Syncline Interactive.
+          more-info: To allow this user to access the platform you must approve their account in organization settings.
           admins_link: Visit the Organization Page
-          subject: New Greenlight User Sign Up
+          subject: New Syncline Interactive User Sign Up
           username: The user signed up with the name %{name} and the email %{email}.
         subject: Account Approved
         username: Your username is %{email}.
@@ -292,9 +293,9 @@ en:
         signup_info: To signup using your email, click the button below and follow the steps.
         signup_link: Sign Up
         signup:
-          info: A user that was invited has signed up to use Greenlight.
+          info: A user that was invited has signed up to use Syncline Interactive.
           admins_link: Visit the Organization Page
-          subject: New Greenlight User Sign Up
+          subject: New Syncline Interactive User Sign Up
           username: The user signed up with the name %{name} and the email %{email}.
         subject: Invitation to join BigBlueButton
         username: Your username is %{email}.
